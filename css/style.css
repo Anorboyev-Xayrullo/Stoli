@@ -1,0 +1,500 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+.navbar_list {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.navbar_list li {
+    padding-left: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #303030;
+}
+
+.hour {
+    display: flex;
+    align-items: center;
+}
+
+.hour img {
+    margin-top: -10px;
+}
+
+.hour p {
+    margin-left: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    color: #303030;
+    padding-top: 2px;
+}
+
+.number {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #303030;
+}
+
+.info {
+    width: 165px;
+    height: 37px;
+    margin-left: 30px;
+    margin-top: -20px;
+    border: none;
+    background: #D5B19B;
+    border-radius: 10px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.navbarls {
+    margin-top: 50px;
+}
+
+
+
+
+/* Header  start  */
+
+
+
+
+
+.frame_main {
+    width: 100%;
+}
+
+
+
+
+
+/* Main start */
+
+
+.model {
+    padding-top: 100px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    text-align: center;
+    color: #303030;
+}
+
+.cards {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card p {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #303030;
+}
+
+.card img {
+    width: 100%;
+}
+
+.phone {
+    text-align: center;
+    padding-left: 20px;
+}
+
+.card span {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+    color: #303030;
+}
+
+.card {
+    padding: 26px 44px;
+    margin-top: 30px;
+}
+
+.find {
+    margin-top: 25px;
+    background: #D5B19B;
+    border-radius: 10px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+    padding: 5px 10px;
+}
+
+.take {
+    text-align: center;
+}
+
+
+.view {
+    padding: 10px 20px;
+    border: 0.5px solid #303030;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 18px;
+    color: #303030;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+
+
+
+/* Section start */
+
+
+.shutter {
+    margin-top: 100px;
+    width: 100%;
+}
+
+
+.same h2 {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    text-align: center;
+    color: #303030;
+}
+
+.same p {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #303030;
+}
+
+
+.same button {
+    margin-bottom: 50px;
+    margin-left: 125px;
+    padding: 10px 20px;
+    border: none;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #303030;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+
+.section {
+    margin-top: 100px;
+    background: linear-gradient(180deg, rgba(213, 177, 155, 0.64) 0%, #D5B19B 100%);
+}
+
+.same {
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.ctol {
+    position: relative;
+}
+
+.mask {
+    position: absolute;
+    width: 100%;
+}
+
+.modem {
+    padding-top: 100px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 71px;
+    text-align: center;
+    color: #303030;
+}
+
+.cat {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cat span {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #303030;
+}
+
+
+.ckidki {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    text-decoration-line: line-through;
+    color: #A2A2A2;
+}
+
+.image {
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.image_img {
+    width: 300%;
+}
+
+.ideal h2 {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    color: #303030;
+}
+
+.ideal p {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color: #303030;
+}
+
+
+.malak {
+    display: flex;
+    align-items: center;
+}
+
+.malak h2 {
+    padding-top: 100px;
+    padding-left: 50px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #303030;
+}
+
+.spasob {
+    margin-top: 30px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    color: #303030;
+}
+
+
+.malak img {
+    padding-top: 100px;
+}
+
+
+.kompani {
+    padding-top: 100px;
+    text-align: center;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    color: #303030;
+}
+
+.katalog button {
+    margin-bottom: 30px;    
+    padding: 15px 20px;
+    border: none;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    color: #FFFFFF;
+    background: #D5B19B;
+    border-radius: 10px;
+}
+
+.transformer {
+    margin-bottom: 30px;
+    margin-top: 50px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    color: #303030;
+}
+
+.term{
+ width: 50%;
+}
+
+.img_image{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:575px) {
+    .logo {
+        padding-left: 90px;
+    }
+
+    .navbar_list {
+        margin-left: -30px;
+        padding-top: 30px;
+        gap: 0px;
+    }
+
+    .hour {
+        padding-top: 20px;
+        padding-left: 100px;
+    }
+
+    .number {
+        padding-top: 10px;
+        padding-left: 140px;
+    }
+
+    .info {
+        margin-top: 20px;
+        margin-left: 120px;
+    }
+
+    .view {
+        margin-top: 30px;
+        margin-left: 111px;
+    }
+
+    .same {
+        margin-left: 0;
+    }
+
+    .same button {
+        margin-left: 100px;
+        margin-bottom: 30px;
+    }
+
+    .section {
+        margin-top: 30px;
+    }
+
+    .view {
+        margin-top: 30px;
+    }
+
+    .frame_main {
+        margin-top: 50px;
+    }
+
+    .card p {
+        margin-top: 30px;
+    }
+
+    .modem {
+        padding-top: 50px;
+    }
+
+    .ideal h2 {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .ideal p {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .ideal div img {
+        margin-top: 20px;
+        width: 19%;
+    }
+
+    .image_img {
+        margin-top: 50px;
+        width: 330%;
+        text-align: center;
+    }
+
+    .malak img {
+        padding-top: 50px;
+    }
+
+    .malak h2 {
+        padding-top: 25px;
+    }
+    .katalog button{
+        padding: 10px 10px;
+    }
+    .term{
+        width: 50%;
+    }
+}
