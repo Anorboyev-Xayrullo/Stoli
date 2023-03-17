@@ -490,11 +490,12 @@ li {
 
     .malak h2 {
         padding-top: 25px;
+        padding-left: 30px;
     }
     .katalog button{
         padding: 10px 10px;
     }
     .term{
-        width: 50%;
+        width: 48%;
     }
 }
