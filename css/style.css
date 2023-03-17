@@ -409,9 +409,11 @@ li {
     }
 
     .navbar_list {
-        margin-left: -40px;
+        display: grid;
         padding-top: 30px;
         gap: 0px;
+        /* margin-left: 30px; */
+        text-align: center;
     }
 
     .hour {
