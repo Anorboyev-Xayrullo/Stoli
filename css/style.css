@@ -192,6 +192,11 @@ li {
 }
 
 
+.section_div{
+    margin-top: 150px;
+}
+
+
 .same h2 {
     font-family: 'Oswald';
     font-style: normal;
@@ -303,11 +308,15 @@ li {
 }
 
 .ideal p {
+    margin-top: 30px;
     font-family: 'Oswald';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
     color: #303030;
+}
+.ideal img{
+    padding-top: 30px;
 }
 
 
@@ -489,7 +498,7 @@ li {
 
     .malak img {
         padding-top: 50px;
-        padding-left: 60px;
+        padding-left: 50px;
     }
 
     .malak h2 {
